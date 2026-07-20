@@ -1,0 +1,21 @@
+herramienta,empresa,bloque,iteracion,modelo_version,tipo_cuenta,memoria_off,idioma,ubicacion,fecha,hora_inicio,hora_fin,orden_prompts,n_capturas,url_publica
+ChatGPT,OpenAI,A',-,No identificable en la interfaz (versión gratuita; sin selector de modelo visible),Gratuita,Sí,Español,España,2026-07-19,23:00:28,23:01:50,P1' → P2',2,https://chatgpt.com/share/6a5d3b9c-fdc4-83eb-a848-52238f45a445
+ChatGPT,OpenAI,B,-,No identificable en la interfaz (versión gratuita; sin selector de modelo visible),Gratuita,Sí,Español,España,2026-07-19,,,B1 → B2,0,https://chatgpt.com/share/6a5d3c88-d430-83eb-bda4-a62db588247e
+ChatGPT,OpenAI,A,1,No identificable en la interfaz (versión gratuita; sin selector de modelo visible),Gratuita,Sí,Español,España,2026-07-19,22:40:17,22:42:46,P1 → P2 → P3 → P4,4,https://chatgpt.com/share/6a5d36e4-fdfc-83ed-bca0-232310b38381
+ChatGPT,OpenAI,A,2,No identificable en la interfaz (versión gratuita; sin selector de modelo visible),Gratuita,Sí,Español,España,2026-07-19,22:47:17,22:49:20,P1 → P2 → P3 → P4,4,https://chatgpt.com/share/6a5d3982-385c-83eb-8beb-b369e4061edc
+ChatGPT,OpenAI,A,3,No identificable en la interfaz (versión gratuita; sin selector de modelo visible),Gratuita,Sí,Español,España,2026-07-19,22:56:30,22:58:18,P1 → P2 → P3 → P4,4,https://chatgpt.com/share/6a5d3baf-92ec-83ed-864c-3c44a06ec294
+Claude,Anthropic,A',-,Claude Sonnet (plan gratuito),Gratuita,Sí,Español,España,2026-07-19,23:01:02,23:02:19,P1' → P2',2,https://claude.ai/share/e0b8860d-98ff-45b5-8a9d-a759bcb9cf92
+Claude,Anthropic,B,-,Claude Sonnet (plan gratuito),Gratuita,Sí,Español,España,2026-07-19,,,B1 → B2,0,https://claude.ai/share/a06cf0ce-5734-4e06-81a2-5e7686c51a83
+Claude,Anthropic,A,1,Claude Sonnet (plan gratuito),Gratuita,Sí,Español,España,2026-07-19,22:40:22,22:42:49,P1 → P2 → P3 → P4,4,https://claude.ai/share/7083830e-a550-4aa7-ad49-b45109b2c395
+Claude,Anthropic,A,2,Claude Sonnet (plan gratuito),Gratuita,Sí,Español,España,2026-07-19,22:47:21,22:49:37,P1 → P2 → P3 → P4,4,https://claude.ai/share/8a3cd745-7399-4bb6-9e5b-597d00fa2d17
+Claude,Anthropic,A,3,Claude Sonnet (plan gratuito),Gratuita,Sí,Español,España,2026-07-19,22:56:35,22:58:37,P1 → P2 → P3 → P4,4,https://claude.ai/share/52a94462-b3ab-4c8d-994b-ca42ff8dd9da
+DeepSeek,DeepSeek,A',-,"Instant (sin ""Pensamiento Profundo"")",Gratuita,Sí,Español,España,2026-07-19,23:01:06,23:02:24,P1' → P2',2,https://chat.deepseek.com/share/nqljxf1hckhoiky7wj
+DeepSeek,DeepSeek,B,-,"Instant (sin ""Pensamiento Profundo"")",Gratuita,Sí,Español,España,2026-07-19,,,B1 → B2,0,https://chat.deepseek.com/share/e8j7y0nurrduer6qag
+DeepSeek,DeepSeek,A,1,"Instant (sin ""Pensamiento Profundo"")",Gratuita,Sí,Español,España,2026-07-19,22:40:30,22:42:58,P1 → P2 → P3 → P4,4,https://chat.deepseek.com/share/u4j54znhlhs44tgnb2
+DeepSeek,DeepSeek,A,2,"Instant (sin ""Pensamiento Profundo"")",Gratuita,Sí,Español,España,2026-07-19,22:47:25,22:49:51,P1 → P2 → P3 → P4,4,https://chat.deepseek.com/share/31auk397iujx2f36b5
+DeepSeek,DeepSeek,A,3,"Instant (sin ""Pensamiento Profundo"")",Gratuita,Sí,Español,España,2026-07-19,22:56:38,22:58:43,P1 → P2 → P3 → P4,4,https://chat.deepseek.com/share/ae7if5heeuj4o44zcy
+Gemini,Google,A',-,3.5 Flash,Gratuita,Sí,Español,España,2026-07-19,23:01:09,23:02:28,P1' → P2',2,https://share.gemini.google/EIRXutju9gfE
+Gemini,Google,B,-,3.5 Flash,Gratuita,Sí,Español,España,2026-07-19,,,B1 → B2,0,https://share.gemini.google/06j6UyOSQWfi
+Gemini,Google,A,1,3.5 Flash,Gratuita,Sí,Español,España,2026-07-19,22:40:32,22:43:01,P1 → P2 → P3 → P4,4,https://share.gemini.google/fIxOvjiJX2Fn
+Gemini,Google,A,2,3.5 Flash,Gratuita,Sí,Español,España,2026-07-19,22:47:28,22:49:55,P1 → P2 → P3 → P4,4,https://share.gemini.google/qoSL6BojIAmg
+Gemini,Google,A,3,3.5 Flash,Gratuita,Sí,Español,España,2026-07-19,22:56:42,22:58:46,P1 → P2 → P3 → P4,4,https://share.gemini.google/LA0He5NMRKkz

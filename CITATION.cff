@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Si utiliza este conjunto de datos, cítelo como se indica a continuación."
+title: "Lenguaje, migración e inteligencia artificial generativa: corpus de respuestas de cuatro asistentes conversacionales (ChatGPT, Gemini, Claude y DeepSeek) ante consultas sobre migración"
+abstract: "Corpus de respuestas de cuatro asistentes de IA generativa a una batería controlada de consultas relacionadas con la migración, recogidas en cuentas limpias y gratuitas el 19 de julio de 2026, para analizar si reproducen o evitan las metáforas deshumanizadoras (agua/desastre natural, invasión, alimaña, mercancía, presión) y su ajuste a las recomendaciones lingüísticas de las guías institucionales y deontológicas vigentes."
+type: dataset
+version: 1.0.0
+date-released: "2026-07-19"
+license: CC-BY-4.0
+repository-code: "https://github.com/blancahpardo/lenguaje-migracion-ia"
+keywords:
+  - migración
+  - discurso migratorio
+  - metáfora deshumanizadora
+  - inteligencia artificial generativa
+  - asistentes conversacionales
+  - análisis crítico del discurso
+  - lingüística de corpus
+authors:
+  - family-names: "Hernández Pardo"
+    given-names: "Blanca"
+    affiliation: "Universidad Pontificia Comillas"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <- completar
+  - family-names: "Cedillo Corrochano"
+    given-names: "Carmen María"
+    affiliation: "Universidad Internacional de Valencia"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <- completar
+  - family-names: "Soler Bonafont"
+    given-names: "María Amparo"
+    affiliation: "Universidad Complutense de Madrid"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <- completar

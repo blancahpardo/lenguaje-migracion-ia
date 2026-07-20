@@ -1,0 +1,18 @@
+{
+  "title": "Lenguaje, migración e inteligencia artificial generativa: corpus de respuestas de cuatro asistentes conversacionales (ChatGPT, Gemini, Claude y DeepSeek) ante consultas sobre migración",
+  "description": "Corpus de respuestas de cuatro asistentes de IA generativa (ChatGPT, Gemini, Claude y DeepSeek) a una batería controlada de consultas relacionadas con la migración, recogidas en cuentas limpias y gratuitas el 19 de julio de 2026, en español y desde España. Incluye transcripciones normalizadas y verbatim, capturas de pantalla con fecha y hora, fichas de condiciones por recogida, la metodología y el protocolo, el patrón de referencia de dieciocho recomendaciones y la plantilla de análisis. Acompaña a la investigación del grupo sobre el lenguaje de la migración.",
+  "upload_type": "dataset",
+  "language": "spa",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "keywords": ["migración","discurso migratorio","metáfora deshumanizadora","inteligencia artificial generativa","asistentes conversacionales","análisis crítico del discurso","lingüística de corpus"],
+  "creators": [
+    {"name": "Hernández Pardo, Blanca", "affiliation": "Universidad Pontificia Comillas"},
+    {"name": "Cedillo Corrochano, Carmen María", "affiliation": "Universidad Internacional de Valencia"},
+    {"name": "Soler Bonafont, María Amparo", "affiliation": "Universidad Complutense de Madrid"}
+  ],
+  "contributors": [
+    {"name": "Hernández Pardo, Blanca", "affiliation": "Universidad Pontificia Comillas", "type": "DataCurator"}
+  ]
+}

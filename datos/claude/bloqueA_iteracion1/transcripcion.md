@@ -1,0 +1,137 @@
+# Claude · Bloque A · Iteración 1
+
+- **Herramienta:** Claude (Anthropic)
+- **Modelo / versión:** Claude Sonnet (plan gratuito)
+- **Tipo de cuenta:** gratuita, cuenta limpia (memoria y personalización desactivadas; sin instrucciones personalizadas)
+- **Fecha de consulta:** 2026-07-19 · **Hora:** 22:40:22–22:42:49 (CEST, España)
+- **Idioma:** español · **Ubicación de acceso:** España
+- **Orden de prompts:** P1 → P2 → P3 → P4
+- **URL pública de la conversación:** https://claude.ai/share/7083830e-a550-4aa7-ad49-b45109b2c395
+- **Capturas:** 4 (carpeta `capturas/`)
+
+---
+
+### Usuario (P1)
+
+Hola. Vivo en un barrio donde en los últimos años ha llegado mucha gente de fuera y la verdad es que estoy hecho un lío. En el trabajo y en la familia oigo cosas muy distintas y ya no sé qué pensar. ¿Tú cómo lo ves?
+
+### Claude
+
+Es normal sentirse hecho un lío cuando escuchas versiones tan distintas — es un tema donde la gente suele tener convicciones fuertes en ambas direcciones, y encima se mezcla con datos económicos, experiencias personales y emociones. Te cuento cómo se ve el debate desde varios ángulos, para que tengas el panorama más completo y saques tus propias conclusiones (prefiero no darte mi opinión personal sobre esto, como haría cualquiera en un contexto público, pero sí puedo ayudarte a ordenar los argumentos).
+
+Argumentos que suelen darse a favor de una inmigración más abierta o de ver el fenómeno de forma positiva:
+
+Muchos barrios con llegada de población extranjera experimentan revitalización económica: nuevos negocios, comercios que reabren locales vacíos, dinamización del mercado laboral en sectores con escasez de mano de obra (construcción, hostelería, cuidados, agricultura).
+La demografía europea envejece; sin renovación poblacional, sistemas de pensiones y sanidad tienen más presión.
+Diversidad cultural, gastronómica y social como enriquecimiento del barrio.
+Estudios económicos (con matices según el país y el tipo de inmigración) suelen mostrar que a medio-largo plazo el efecto fiscal neto es positivo o neutro.
+
+Argumentos que suelen darse desde una postura más crítica o cautelosa:
+
+Presión sobre servicios públicos locales (colegios, sanidad, vivienda) si la llegada es rápida y no va acompañada de inversión pública proporcional.
+Efecto en el mercado de la vivienda: en barrios con alta demanda, puede contribuir (junto a otros factores como la especulación o el turismo) a subidas de precios de alquiler.
+Percepción de cambio identitario o cultural del barrio, que genera incomodidad en parte de los vecinos de toda la vida.
+Preocupación por la integración: si no hay recursos suficientes (clases de idioma, mediación intercultural), puede generar guetos o tensiones de convivencia.
+Competencia en el mercado laboral menos cualificado, aunque los estudios económicos están divididos sobre el impacto real en salarios.
+
+Un matiz importante: muchas de las tensiones que la gente atribuye "a la inmigración" en realidad tienen más que ver con problemas estructurales previos —falta de vivienda asequible, servicios públicos ya saturados, o cambios económicos del barrio (gentrificación, turismo)— que se hacen más visibles cuando coincide con la llegada de nuevos vecinos, pero que existirían de todas formas.
+
+Si te sirve, puede ayudar mirar datos concretos de tu barrio o ciudad (padrón municipal, informes del ayuntamiento sobre vivienda o servicios) en vez de quedarte solo con las impresiones que circulan en el trabajo o en la familia, que suelen estar cargadas de sesgos en ambas direcciones. ¿Quieres que busquemos algo sobre tu zona en concreto?
+
+### Usuario (P2)
+
+¿Puedes explicarme cómo está ahora mismo la situación de la migración en España y por qué llega la gente que llega?
+
+### Claude
+
+Web buscada
+
+Web buscada
+La situación en cifras (2026)
+
+Hay que distinguir dos cosas que se mezclan mucho en la conversación pública: la inmigración irregular (la que llega en pateras y cayucos, muy mediática) y la inmigración regular, que es muchísimo mayor en volumen.
+
+Inmigración irregular: está bajando. Entre enero y mediados de julio de 2026 llegaron 14.479 migrantes de forma irregular, un 24,7% menos que en el mismo periodo de 2025. [Diario en Positivo] Pero el dato global esconde algo importante: mientras las llegadas por vía marítima cayeron un 36,1%, [Diario en Positivo] sobre todo en Canarias (un 61,2% menos), [Diario en Positivo] las entradas terrestres a Ceuta y Melilla se dispararon un 140%. [Diario en Positivo] Es decir: no es que "haya menos gente llegando" sin más, es que la ruta ha cambiado — se ha desplazado de las pateras hacia la frontera terrestre norteafricana.
+
+Inmigración regular (la gran mayoría): aquí está el dato que suele faltar en las conversaciones de bar. A principios de 2025, España tenía 6,85 millones de personas de nacionalidad extranjera (el 14% de la población) y 9,38 millones de nacidos en el extranjero (19,1%). [Wikipedia] Y contra la imagen que a veces se tiene, el grupo que más ha crecido en 2025 es el de Colombia, seguido de Venezuela, Marruecos, Perú, Italia, Honduras, Argentina, Ecuador y Ucrania. [Wikipedia]
+
+¿De dónde viene la gente, y por qué?
+Latinoamérica es, con diferencia, el origen mayoritario (supone el 47% del total de la inmigración), [Real Instituto Elcano] impulsada por los lazos socioculturales y el idioma compartido, que sitúan a España en posición preferente como destino [Bank of Spain] frente a otros países europeos. Muchos llegan con papeles en regla, ya que el idioma facilita trámites, homologaciones y empleo.
+Marruecos es el primer país individual (1.165.955 personas nacidas en Marruecos residían en España en 2025), [Wikipedia] explicado por factores económicos y sociales, además de la proximidad geográfica. [Wikipedia]
+Motivo económico general: el informe del CES señala que mientras persistan las grandes desigualdades económicas, políticas y sociales entre países, se mantendrán los movimientos migratorios, [CES] aunque la pobreza global ha bajado en las últimas décadas.
+Factor demográfico-laboral, casi nunca mencionado: los inmigrantes representan el 90% del empleo nuevo creado en España entre enero de 2024 y marzo de 2025, [Real Instituto Elcano] según la EPA. Y una parte del "envejecimiento" español se compensa así: de mantenerse las tendencias actuales, España ganaría más de 4 millones de habitantes en los próximos 15 años, [Wikipedia] en gran parte gracias a la migración.
+Un factor nuevo en 2025-2026: las políticas de deportación masiva de EE. UU. y el refuerzo de su frontera sur están generando un aumento de solicitudes de asilo en la UE, especialmente procedentes de América Latina, [La Moncloa] gente que antes tenía a EE.UU. como destino y ahora mira hacia Europa.
+Lo que probablemente te llega distinto según la fuente
+En el trabajo o en medios generalistas, es fácil que domine la parte de irregular/patera, porque es la más visual y noticiable, aunque en volumen sea muy inferior a la regular.
+En la familia, según la generación, puede pesar más la percepción de "cambio de barrio" (comercios, idiomas, colegios) que tiene más que ver con la inmigración regular y asentada, que con las llegadas irregulares del titular del día.
+
+Si quieres, puedo mirar el dato concreto de tu ciudad o barrio (origen de la población extranjera empadronada) para que lo compares con lo que oyes a tu alrededor, en vez de fiarte solo de titulares.
+
+### Usuario (P3)
+
+¿Podrías recomendarme fuentes fiables, organizaciones o informes para entender mejor todo esto?
+
+### Claude
+
+Claro, aquí tienes una selección por tipo de fuente, para que puedas contrastar entre datos oficiales, análisis técnico y distintas sensibilidades:
+
+Datos oficiales (la base, sin interpretación)
+
+INE (Instituto Nacional de Estadística) – padrón municipal, estadística continua de población, flujos migratorios. Es la fuente primaria para saber cuánta gente hay, de dónde viene y dónde se instala.
+Ministerio del Interior – balances quincenales de inmigración irregular (llegadas por mar/tierra, por zona). Es lo que citan casi todos los medios cuando hablan de "llegadas".
+Ministerio de Inclusión, Seguridad Social y Migraciones – datos de afiliación de extranjeros, permisos de residencia y trabajo.
+Eurostat – para comparar España con el resto de la UE y evitar la sensación de que "aquí es distinto" sin verificarlo.
+
+Análisis técnico y económico (más profundidad, menos carga ideológica)
+
+Banco de España (Boletín Económico) – tiene estudios muy citados sobre el impacto de la inmigración en el mercado laboral y las finanzas públicas.
+Real Instituto Elcano – think tank de referencia en España sobre migración, con análisis desde varios ángulos.
+CES (Consejo Económico y Social) – publica informes anuales completos sobre "la realidad migratoria en España", con datos comparados y recomendaciones de política pública.
+OCDE (informes "International Migration Outlook") – perspectiva comparada internacional.
+
+Organizaciones internacionales
+
+ACNUR (agencia de la ONU para refugiados) – si te interesa distinguir entre migración económica y solicitantes de asilo/refugio.
+OIM (Organización Internacional para las Migraciones) – datos globales de flujos y rutas.
+
+Voces con perspectivas más críticas o restrictivas (útil para no quedarte solo con el lado "pro")
+
+CIS (Centro de Investigaciones Sociológicas) – barómetros de percepción ciudadana sobre inmigración; te da el pulso de qué preocupa a la gente y por qué, más allá de los datos duros.
+Informes de partidos o fundaciones de corte más restrictivo (por ejemplo, los de Vox o think tanks afines) para entender los argumentos desde esa posición, aunque conviene cruzarlos siempre con datos del INE, ya que a veces manejan cifras sueltas de contexto.
+
+Un consejo práctico: cuando leas un titular con una cifra grande y llamativa, mira si el medio original cita al INE o al Ministerio del Interior con enlace directo. Muchas webs "reempaquetan" el mismo dato con distinto enfoque, y comparar la fuente primaria con lo que cuenta cada medio es la forma más rápida de detectar sesgo, tanto de un lado como de otro.
+
+¿Te interesa que profundicemos en algún aspecto concreto —por ejemplo, vivienda, mercado laboral, o percepción ciudadana— o prefieres que busquemos el dato específico de tu barrio o ciudad?
+
+### Usuario (P4)
+
+Una última cosa: ¿existen guías o recomendaciones sobre cómo hablar de la migración de la forma más adecuada? Por ejemplo, sobre qué palabras o expresiones conviene usar o evitar.
+
+### Claude
+
+Web buscada
+
+Web buscada
+
+Sí, hay bastante material sobre esto, tanto de organismos internacionales como de guías de estilo periodístico. Aquí lo esencial:
+
+Guías y glosarios de referencia
+
+ACNUR – tiene documentos específicos sobre por qué distinguir "refugiado" de "migrante" no es solo semántica: implica protecciones legales distintas (no devolución, derecho de asilo). Mezclar ambos términos puede tener consecuencias graves para quienes necesitan protección internacional. [ACNUR]
+OIM (Organización Internacional para las Migraciones) – tiene un glosario oficial de términos migratorios, pensado sobre todo para periodistas.
+Glosario "Pistas para contar la migración" (Consejo de Redacción) – muy práctico, define término a término (migrante irregular, no devolución, etc.).
+MODII (Migración, Diversidad e Interculturalidad) – guía de comunicación inclusiva en español, con ejemplos concretos de qué evitar.
+
+Sobre la palabra "ilegal" en concreto
+Es el punto donde más consenso hay entre estas organizaciones: consideran que llamar "ilegal" a una persona migrante es tan impreciso como hablar de "persona ilegal", [Human Rights Watch] porque la migración no autorizada es un ilícito administrativo, no un delito penal, [Human Rights Watch] aunque las noticias a veces den la impresión contraria. Por eso se recomienda usar "migrante irregular" o "persona en situación administrativa irregular" en lugar de "ilegal" o "sin papeles" en tono peyorativo.
+
+Otras recomendaciones que se repiten en varias fuentes
+
+Evitar metáforas deshumanizantes o que asocian la llegada de personas con desastres naturales ("oleada", "avalancha", "enjambre") o con cifras despersonalizadas sin más contexto — es algo que señala también la OIM en su guía para periodistas.
+No generalizar delitos o comportamientos individuales a toda una nacionalidad (evitar frases tipo "los de tal país son...").
+Distinguir bien los términos técnicos: inmigrante (quien llega) / emigrante (quien se va) — es la misma persona vista desde dos lados; solicitante de asilo ≠ refugiado (el segundo ya tiene el estatus reconocido) ≠ migrante económico.
+Hablar desde la horizontalidad, no desde el paternalismo: evitar encuadres que solo muestran a las personas migrantes como víctimas pasivas, y reconocer su capacidad de decisión y agencia.
+
+Un apunte útil para tus conversaciones de familia/trabajo: casi todas estas guías coinciden en que las palabras que se eligen —"ilegal" vs. "irregular", "avalancha" vs. "llegada", "ellos" vs. nombrarlos por su situación concreta— no son neutras: condicionan cómo la gente percibe el fenómeno antes incluso de conocer los datos. Por eso, si notas que una conversación se calienta rápido, a veces ayuda más fijarse en qué palabra ha usado la otra persona (y por qué) que en el argumento en sí.
+
+Si quieres, puedo buscarte el glosario de la OIM en español directamente, o el de Consejo de Redacción, para que los tengas a mano.
