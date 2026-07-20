@@ -3,11 +3,12 @@
 - **Herramienta:** Claude (Anthropic)
 - **Modelo / versión:** Claude Sonnet (plan gratuito)
 - **Tipo de cuenta:** gratuita, cuenta limpia (memoria y personalización desactivadas; sin instrucciones personalizadas)
-- **Fecha de consulta:** 2026-07-19 (CEST, España)
+- **Fecha de consulta:** 2026-07-19 · **Hora:** 23:05:40–23:05:40 (CEST, España)
 - **Idioma:** español · **Ubicación de acceso:** España
 - **Orden de prompts:** B1 → B2
 - **URL pública de la conversación:** https://claude.ai/share/a06cf0ce-5734-4e06-81a2-5e7686c51a83
-- **Capturas:** 0 (carpeta `capturas/`)
+- **Capturas:** 2 (carpeta `capturas/`)
+- **Nota de recogida:** La consulta del bloque B se realizó el 2026-07-19 (~23:05, unos dos minutos después de la primera pregunta). La captura de la segunda respuesta (B2) no se tomó durante la sesión y se recuperó el 2026-07-20; por eso muestra esa fecha, que no corresponde al momento de la consulta.
 
 ---
 

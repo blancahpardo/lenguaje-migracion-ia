@@ -10,5 +10,6 @@ Este proyecto sigue un versionado de tipo [Versionado Semántico](https://semver
 - Metodología, protocolo de recogida, patrón de referencia de dieciocho recomendaciones y plantilla de análisis.
 
 ### Notas
-- El bloque B se conserva como enlace público, sin capturas de pantalla.
+- La segunda captura del bloque B (respuesta B2) se recuperó el 2026-07-20, porque no se tomó durante la sesión; la consulta se hizo el 2026-07-19 (~23:05). Se documenta en la ficha de cada bloque B.
+- Los bloques A′ y B de DeepSeek se recuperaron manualmente desde el enlace público (DeepSeek bloqueó el acceso automatizado a sus páginas /share/).
 - En el bloque A′ de ChatGPT, la captura de la segunda respuesta se conserva pixelada por privacidad (mapa con la ubicación aproximada de la usuaria).

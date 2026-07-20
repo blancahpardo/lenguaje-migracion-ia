@@ -82,7 +82,9 @@ Cada `transcripcion.md` está normalizada para su lectura: cabecera con las cond
 
 Cada conversación se conserva además como enlace público en la cabecera de su transcripción y en su ficha.
 
-**Nota sobre las capturas.** El bloque A dispone de cuatro capturas por conversación y el bloque A′ de dos; el bloque B se conserva solo como enlace público (sin capturas). En el bloque A′ de ChatGPT, la captura de la segunda respuesta se conserva **pixelada**, porque el asistente mostró un mapa con la ubicación aproximada de la usuaria; el mapa mismo no forma parte de la transcripción textual y su aparición se documenta en la `ficha.md` correspondiente.
+**Nota sobre las capturas.** El bloque A dispone de cuatro capturas por conversación, y los bloques A′ y B de dos. En el bloque B, la captura de la segunda respuesta (B2) no se tomó durante la sesión y se recuperó el 20 de julio de 2026; muestra por ello esa fecha, que no corresponde al momento de la consulta (19 de julio, ~23:05, unos dos minutos después de la primera pregunta). Se documenta en la `ficha.md` de cada bloque B. En el bloque A′ de ChatGPT, la captura de la segunda respuesta se conserva **pixelada**, porque el asistente mostró un mapa con la ubicación aproximada de la usuaria; el mapa mismo no forma parte de la transcripción textual y su aparición se documenta en la `ficha.md` correspondiente.
+
+**Nota sobre DeepSeek.** Durante la curación, DeepSeek bloqueó el acceso automatizado a sus páginas `/share/`; sus bloques A′ y B se recuperaron manualmente desde el enlace público. El corpus está completo.
 
 ## 5. Análisis
 

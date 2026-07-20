@@ -13,9 +13,10 @@
 | Idioma de consulta | Español |
 | Ubicación de acceso | España |
 | Fecha | 2026-07-19 |
-| Hora de inicio (1.ª captura) | n. d. |
-| Hora de fin (última captura) | n. d. |
+| Hora de inicio (1.ª captura) | 23:05:47 |
+| Hora de fin (última captura) | 23:05:47 |
 | Orden de prompts | B1 → B2 |
-| N.º de capturas | 0 |
+| N.º de capturas | 2 |
 | Formato de registro | Transcripción textual + capturas de pantalla + enlace público |
 | URL pública | https://share.gemini.google/06j6UyOSQWfi |
+| Observaciones | La consulta del bloque B se realizó el 2026-07-19 (~23:05, unos dos minutos después de la primera pregunta). La captura de la segunda respuesta (B2) no se tomó durante la sesión y se recuperó el 2026-07-20; por eso muestra esa fecha, que no corresponde al momento de la consulta. |

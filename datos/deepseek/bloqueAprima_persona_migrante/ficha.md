@@ -19,4 +19,4 @@
 | N.º de capturas | 2 |
 | Formato de registro | Transcripción textual + capturas de pantalla + enlace público |
 | URL pública | https://chat.deepseek.com/share/nqljxf1hckhoiky7wj |
-| Observaciones | TRANSCRIPCIÓN PARCIAL. Durante la fase de curación, DeepSeek bloqueó el acceso automatizado a sus páginas /share/ (aviso "Entorno de uso anómalo" y HTTP 403), por lo que esta conversación no pudo recuperarse íntegra por navegador. El texto reproducido procede de las dos capturas de pantalla de la recogida, que solo recogen el inicio de cada respuesta larga. La transcripción completa está pendiente de recuperar del enlace público (accesible manualmente). |
+| Observaciones | Transcripción recuperada manualmente por la investigadora desde el enlace público (DeepSeek había bloqueado el acceso automatizado a sus páginas /share/ durante la curación). |

@@ -3,11 +3,12 @@
 - **Herramienta:** ChatGPT (OpenAI)
 - **Modelo / versión:** No identificable en la interfaz (versión gratuita; sin selector de modelo visible)
 - **Tipo de cuenta:** gratuita, cuenta limpia (memoria y personalización desactivadas; sin instrucciones personalizadas)
-- **Fecha de consulta:** 2026-07-19 (CEST, España)
+- **Fecha de consulta:** 2026-07-19 · **Hora:** 23:05:36–23:05:36 (CEST, España)
 - **Idioma:** español · **Ubicación de acceso:** España
 - **Orden de prompts:** B1 → B2
 - **URL pública de la conversación:** https://chatgpt.com/share/6a5d3c88-d430-83eb-bda4-a62db588247e
-- **Capturas:** 0 (carpeta `capturas/`)
+- **Capturas:** 2 (carpeta `capturas/`)
+- **Nota de recogida:** La consulta del bloque B se realizó el 2026-07-19 (~23:05, unos dos minutos después de la primera pregunta). La captura de la segunda respuesta (B2) no se tomó durante la sesión y se recuperó el 2026-07-20; por eso muestra esa fecha, que no corresponde al momento de la consulta.
 
 ---
 
