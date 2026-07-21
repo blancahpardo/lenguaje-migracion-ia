@@ -13,8 +13,6 @@ Conjunto de datos que acompaña a esta investigación sobre el lenguaje de la mi
 - **Licencia:** CC BY 4.0 (véase [`LICENSE`](LICENSE))
 - **Versión:** 1.0.0
 
-> Este conjunto de datos replica el procedimiento del corpus [*Lenguaje, cáncer e inteligencia artificial generativa*](https://doi.org/10.5281/zenodo.21419368) sobre un tema distinto (migración) y un fenómeno lingüístico distinto (metáforas deshumanizadoras en lugar de lenguaje bélico).
-
 ---
 
 ## 1. Qué contiene este repositorio
