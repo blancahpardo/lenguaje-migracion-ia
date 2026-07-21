@@ -7,6 +7,10 @@ version: 1.0.0
 date-released: "2026-07-19"
 license: CC-BY-4.0
 repository-code: "https://github.com/blancahpardo/lenguaje-migracion-ia"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21472075"
+    description: "DOI de la versión 1.0.0 de este conjunto de datos, archivada en Zenodo."
 keywords:
   - migración
   - discurso migratorio
