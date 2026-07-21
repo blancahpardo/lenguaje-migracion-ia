@@ -9,9 +9,7 @@
   "doi": "10.5281/zenodo.21472075",
   "keywords": ["migración","discurso migratorio","metáfora deshumanizadora","inteligencia artificial generativa","asistentes conversacionales","análisis crítico del discurso","lingüística de corpus"],
   "creators": [
-    {"name": "Hernández Pardo, Blanca", "affiliation": "Universidad Pontificia Comillas"},
-    {"name": "Cedillo Corrochano, Carmen María", "affiliation": "Universidad Internacional de Valencia"},
-    {"name": "Soler Bonafont, María Amparo", "affiliation": "Universidad Complutense de Madrid"}
+    {"name": "Hernández Pardo, Blanca", "affiliation": "Universidad Pontificia Comillas"}
   ],
   "contributors": [
     {"name": "Hernández Pardo, Blanca", "affiliation": "Universidad Pontificia Comillas", "type": "DataCurator"}

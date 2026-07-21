@@ -31,7 +31,7 @@ Recogidos en `instrumentos/Libro_de_codigos_analisis.xlsx`:
 
 **Distinción uso/mención.** Muchas apariciones de los términos del inventario no los usan, sino que los mencionan (entrecomillados, para rechazarlos), sobre todo en P4 y en el bloque B. Un recuento automático de frecuencias, ciego al contexto, computaría esas apariciones como reproducción del marco cuando lo que hacen es combatirlo. Ambos recuentos se informan por separado.
 
-**Fiabilidad.** Primera pasada de quien analiza, doble codificación de una submuestra con κ de Cohen y validación conjunta entre las autoras antes de dar la codificación por definitiva.
+**Fiabilidad.** Primera pasada de codificación y segunda pasada de revisión, ambas a cargo de la autora, antes de dar la codificación por definitiva.
 
 ## Ética y transparencia
 

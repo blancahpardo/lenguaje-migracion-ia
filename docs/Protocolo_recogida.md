@@ -137,13 +137,13 @@ Rellenar la ficha de la sección 6 por cada herramienta y repetición **antes** 
 
 ---
 
-## 7. Análisis (instrumentos, se aplican después en equipo)
+## 7. Análisis (instrumentos, se aplican después)
 
 - **Rejilla léxico-metafórica.** Presencia, frecuencia y cita literal de cada aparición, clasificada por dominio fuente según el inventario de la Parte III del patrón consolidado. **Cada aparición se codifica como uso o como mención**, y ambos recuentos se informan por separado. Un recuento automático de frecuencias, sin leer el contexto, concluiría lo contrario de lo que ocurre: en P4 y en el bloque B la mayoría de las apariciones serán menciones entrecomilladas para rechazar el término.
 - **Matriz de adherencia.** Herramienta × 18 recomendaciones (cumple / parcial / incumple / no aplica) con nota de evidencia y cita literal. Instrumento central.
 - **Rúbrica dimensional.** Las siete dimensiones adaptadas: metáfora deshumanizadora, accesibilidad, empatía y acompañamiento, registro y tecnicismo, fiabilidad e invenciones, orientabilidad (bloque B) y detección de guías (P4).
 - **Verificación de fuentes de P3.** Comprobar una a una que las organizaciones, informes y URL existen.
-- **Fiabilidad intercodificador.** Primera pasada de quien analiza, doble codificación de una submuestra y κ de Cohen; validación entre las autoras antes de dar la codificación por definitiva.
+- **Fiabilidad.** Primera pasada de codificación y segunda pasada de revisión, ambas a cargo de la autora, antes de dar la codificación por definitiva.
 
 Todos los instrumentos van en el libro de códigos que acompaña a este protocolo.
 

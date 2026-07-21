@@ -4,9 +4,9 @@
 
 **Corpus de respuestas de cuatro asistentes conversacionales (ChatGPT, Gemini, Claude y DeepSeek) ante consultas sobre migración**
 
-Conjunto de datos que acompaña a la investigación del grupo sobre el lenguaje de la migración. Reúne las respuestas de cuatro asistentes de inteligencia artificial generativa a una misma batería de consultas relacionadas con la migración, recogidas de forma controlada, con el fin de analizar en qué medida reproducen o evitan las **metáforas deshumanizadoras** (agua y desastre natural, invasión, alimaña, mercancía, presión) y en qué medida se ajustan a las **recomendaciones lingüísticas** de las guías institucionales y deontológicas vigentes.
+Conjunto de datos que acompaña a esta investigación sobre el lenguaje de la migración. Reúne las respuestas de cuatro asistentes de inteligencia artificial generativa a una misma batería de consultas relacionadas con la migración, recogidas de forma controlada, con el fin de analizar en qué medida reproducen o evitan las **metáforas deshumanizadoras** (agua y desastre natural, invasión, alimaña, mercancía, presión) y en qué medida se ajustan a las **recomendaciones lingüísticas** de las guías institucionales y deontológicas vigentes.
 
-- **Autoría:** Blanca Hernández Pardo, Carmen María Cedillo Corrochano y María Amparo Soler Bonafont
+- **Autoría:** Blanca Hernández Pardo
 - **Recogida y curación de datos:** Blanca Hernández Pardo
 - **Fecha de recogida:** 19 de julio de 2026
 - **Idioma de las consultas:** español · **Ubicación de acceso:** España
@@ -94,12 +94,12 @@ El análisis cualitativo se apoya en la plantilla [`instrumentos/Libro_de_codigo
 
 ## 6. Consideraciones éticas y de transparencia
 
-El estudio no recaba datos de participantes humanos: el material son respuestas generadas por los asistentes ante una batería de consultas diseñada por las autoras. Las transcripciones pueden contener afirmaciones inexactas propias de estos sistemas; se conservan sin corregir precisamente porque son el objeto de estudio, y no deben tomarse como información fiable sobre migración. Los enunciados del bloque B ponen en boca de la investigadora formulaciones deshumanizadoras que **no** comparte, con función de sonda experimental.
+El estudio no recaba datos de participantes humanos: el material son respuestas generadas por los asistentes ante una batería de consultas diseñada por la autora. Las transcripciones pueden contener afirmaciones inexactas propias de estos sistemas; se conservan sin corregir precisamente porque son el objeto de estudio, y no deben tomarse como información fiable sobre migración. Los enunciados del bloque B ponen en boca de la investigadora formulaciones deshumanizadoras que **no** comparte, con función de sonda experimental.
 
 ## 7. Cómo citar
 
 Referencia en APA (7.ª ed.):
 
-> Hernández Pardo, B., Cedillo Corrochano, C. M. y Soler Bonafont, M. A. (2026). *Lenguaje, migración e inteligencia artificial generativa: corpus de respuestas de cuatro asistentes conversacionales (ChatGPT, Gemini, Claude y DeepSeek) ante consultas sobre migración* (Versión 1.0.0) [Conjunto de datos]. Zenodo. https://doi.org/10.5281/zenodo.21472075
+> Hernández Pardo, B. (2026). *Lenguaje, migración e inteligencia artificial generativa: corpus de respuestas de cuatro asistentes conversacionales (ChatGPT, Gemini, Claude y DeepSeek) ante consultas sobre migración* (Versión 1.0.0) [Conjunto de datos]. Zenodo. https://doi.org/10.5281/zenodo.21472075
 
 Véase también [`CITATION.cff`](CITATION.cff).

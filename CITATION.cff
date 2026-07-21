@@ -24,11 +24,3 @@ authors:
     given-names: "Blanca"
     affiliation: "Universidad Pontificia Comillas"
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # <- completar
-  - family-names: "Cedillo Corrochano"
-    given-names: "Carmen María"
-    affiliation: "Universidad Internacional de Valencia"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <- completar
-  - family-names: "Soler Bonafont"
-    given-names: "María Amparo"
-    affiliation: "Universidad Complutense de Madrid"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <- completar
